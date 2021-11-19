@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(166, 223, 233);
+}
+
+hr{
+
+border-style: none;
+border-top-style:dotted;   
+border-width: 10px;
+border-color: rgb(27, 53, 126);
+width: 20% ;
+
+}
+h1{
+    color: rgb(151, 83, 98);
+    outline-color: black;
+}
+h3{
+    color: #44660d;
+    outline-color: black;
+}
+}
